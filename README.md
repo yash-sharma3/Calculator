@@ -1,4 +1,4 @@
-Calculator GUI using Tkinter 🖩
+**Calculator GUI using Tkinter 🖩**
 
 Overview
 
