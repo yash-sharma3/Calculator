@@ -121,10 +121,6 @@ Esc
 
 Clear input (C)
 
-Screenshots 📸
-
-(Include screenshots of your calculator UI here)
-
 License 📜
 
 This project is open-source under the MIT License.
